@@ -1,0 +1,1 @@
+console.log("Um, 42. Life, The Universe and Everything!");
